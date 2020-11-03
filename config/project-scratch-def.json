@@ -1,0 +1,21 @@
+{
+    "orgName": "Demo company",
+    "country": "US",
+    "edition": "Developer",
+    "language": "en_US",
+    "hasSampleData": false,
+    "features": [
+        "API",
+        "AuthorApex",
+        "ContactsToMultipleAccounts",
+        "DefaultWorkflowUser"
+    ],
+    "settings": {
+        "lightningExperienceSettings": {
+            "enableS1DesktopEnabled": true
+        },
+        "languageSettings": {
+            "enableTranslationWorkbench": true
+        }
+    }
+}
